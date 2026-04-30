@@ -1,4 +1,4 @@
-﻿# bidkern portfolio
+# bidkern portfolio
 
 Retail and B2B operations background, now focused on analytics, workflow automation, and practical data tools. These public repositories are selected portfolio projects showing Python, SQL, TypeScript, process design, and documentation work.
 
