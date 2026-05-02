@@ -1,16 +1,18 @@
 # bidkern portfolio
 
-Retail and B2B operations background, now focused on analytics, implementation, workflow automation, and practical data tools. These public repositories are selected portfolio projects showing Python, SQL, TypeScript, process design, and documentation work.
+Operations, customer-facing sales, and B2B background now focused on operations analysis, implementation support, customer operations, product operations, and workflow systems. These public repositories are selected portfolio projects showing practical Python, SQL, TypeScript, data validation, workflow mapping, and operational reporting work.
 
-Best-fit roles: operations analyst, business analyst, revenue operations, sales operations, customer operations, implementation specialist, product operations, and workflow automation support.
+Target roles: operations analyst, revenue operations associate, sales operations analyst, customer operations analyst, implementation specialist, product operations coordinator, workflow systems support, and technical support roles with data or workflow ownership.
 
 ### Featured work
 
-- **[MRW](https://github.com/bidkern/MRW)** - Python and SQL workflow for scoring market research events, exporting ranked decision logs, and supporting repeatable analysis.
-- **[lotpilot](https://github.com/bidkern/lotpilot)** - Dealer inventory onboarding, sync, messaging, and workflow platform built with Next.js, Prisma, PostgreSQL, and background job patterns.
-- **[agent-ledger](https://github.com/bidkern/agent-ledger)** - Workflow-governance hub for queues, approvals, audit logs, permission boundaries, and operator controls.
-- **[planes](https://github.com/bidkern/planes)** - Seeded Python/Pillow generative art collection with reproducible metadata and a static GitHub Pages gallery.
+- **[MRW (Market Research Workflow)](https://github.com/bidkern/MRW)** - Python and SQL workflow for validating market research events, scoring opportunities, exporting ranked decision logs, and supporting repeatable analysis.
+- **[LotPilot](https://github.com/bidkern/lotpilot)** - Dealer inventory operations platform for onboarding, source sync, listing workflows, exports, customer messaging, and audit-friendly operational records.
+
+### In progress
+
+- **[Agent Ledger](https://github.com/bidkern/agent-ledger)** - Early prototype for governed workflow automation, approval queues, permission boundaries, and audit history. Included as a work-in-progress direction, not a finished product.
 
 ### Toolkit
 
-Python | SQL | Excel | TypeScript | Node.js | Git | CSV/JSON pipelines | workflow documentation
+Python | SQL | Excel | TypeScript | Git/GitHub | CSV/JSON pipelines | data validation | operational reporting | workflow analysis
