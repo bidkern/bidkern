@@ -8,10 +8,10 @@ Target roles: operations analyst, revenue operations associate, sales operations
 
 - **[MRW (Market Research Workflow)](https://github.com/bidkern/MRW)** - Python and SQL workflow for validating market research events, scoring opportunities, exporting ranked decision logs, and supporting repeatable analysis.
 - **[LotPilot](https://github.com/bidkern/lotpilot)** - Dealer inventory operations platform for onboarding, source sync, listing workflows, exports, customer messaging, and audit-friendly operational records.
-
-### In progress
-
-- **[Agent Ledger](https://github.com/bidkern/agent-ledger)** - Early prototype for governed workflow automation, approval queues, permission boundaries, and audit history. Included as a work-in-progress direction, not a finished product.
+- **[Agent Ledger](https://github.com/bidkern/agent-ledger)** - Governed workflow automation prototype for work queues, approvals, permission boundaries, billing controls, and audit history.
+- **[Planes](https://github.com/bidkern/planes)** - Seeded Python/Pillow generative system with metadata, verification, and a static gallery.
+- **[Big Head Filter](https://github.com/bidkern/big-head-filter)** - Realtime OpenCV and MediaPipe virtual-camera filter with local processing.
+- **[Bitcoin Block Board Music](https://github.com/bidkern/bitcoin-block-board-music)** - Browser data-mapping demo that turns Bitcoin block structure into deterministic generated audio.
 
 ### Toolkit
 
