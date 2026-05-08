@@ -2,9 +2,9 @@
 
 ## Jesse Adelman | Sales & Customer Operations Specialist
 
-I build practical operations projects from a sales, customer service, and retail leadership background. This GitHub is where I show how I think through customer workflows, account follow-up, records, and simple reporting tools.
+I build practical operations projects focused on customer workflows, account follow-up, records, and simple reporting tools. This GitHub shows how I approach the kind of work that sits between customers, daily operations, and usable data.
 
-My projects are intentionally focused: validate the input, organize the work, and make the result easier to review or hand off.
+My projects are built to make the underlying work easier to review and hand off.
 
 ## Featured Projects
 
