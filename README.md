@@ -1,15 +1,19 @@
-# Jesse Adelman
+# bidkern
 
-## About Me
+## Jesse Adelman | Sales & Customer Operations Specialist
 
-I am a sales and customer operations professional focused on turning customer-facing experience into practical operations, implementation support, and reporting work. My background includes retail leadership, business account support, B2B outreach, KPI tracking, coaching, and self-directed Excel/SQL/Python projects.
+I am building a portfolio around sales operations, customer operations, implementation support, and practical reporting tools. My background is customer-facing: retail leadership, business account support, B2B outreach, KPI tracking, coaching, and follow-through across day-to-day operations.
 
-Right now, I am building a portfolio around the kind of work I want to do next: organizing customer and account workflows, improving follow-up, validating records, and creating clear reporting tools that help teams act faster.
+The work I am focused on now is simple and useful: organize customer and account workflows, make records easier to review, improve follow-up, and use Excel, SQL, and Python to turn operating data into clearer next steps.
 
-- **GitHub:** [bidkern](https://github.com/bidkern)
 - **Current goal:** move into sales operations, customer operations, implementation support, or operations coordination
 - **Tools I use:** Excel, SQL, Python, Git/GitHub, CSV/JSON, JavaScript project exposure
 - **Strongest work:** sales support, customer communication, account coordination, coaching, and operating records that are easy to review
+
+## Portfolio Projects
+
+- **[MRW](https://github.com/bidkern/MRW)**: Python and SQL workflow that validates CSV records, applies scoring rules, exports decision logs, stores results in SQLite, and includes unit tests for scoring and validation.
+- **[LotPilot](https://github.com/bidkern/lotpilot)**: Dealer inventory operations prototype covering source onboarding, listing workflows, exports, and customer messaging.
 
 ## Target Roles
 
@@ -19,11 +23,6 @@ Right now, I am building a portfolio around the kind of work I want to do next: 
 - Implementation Specialist / Implementation Support
 - Operations Coordinator / Operations Specialist
 - Technical Support or Solutions Support roles with workflow/reporting ownership
-
-## Portfolio Projects
-
-- **[MRW](https://github.com/bidkern/MRW)**: Python and SQL workflow that validates CSV records, applies scoring rules, exports decision logs, stores results in SQLite, and includes unit tests for scoring and validation.
-- **[LotPilot](https://github.com/bidkern/lotpilot)**: Dealer inventory operations prototype covering source onboarding, listing workflows, exports, and customer messaging.
 
 ## Background
 
