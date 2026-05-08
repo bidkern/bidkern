@@ -1,6 +1,6 @@
 # Jesse Adelman
 
-Customer-facing operations professional moving into customer operations, sales support, implementation support, and operations coordinator roles. My background includes retail leadership, Apple sales support, B2B account outreach, KPI tracking, and practical Excel/SQL/Python project work.
+Customer-facing operations professional targeting customer operations, sales support, implementation support, and operations coordinator roles. My background includes retail leadership, business account support, B2B account outreach, KPI tracking, and practical Excel/SQL/Python project work.
 
 - **GitHub:** [bidkern](https://github.com/bidkern)
 - **Current focus:** customer operations, sales support, implementation support, operations coordination
