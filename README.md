@@ -1,14 +1,19 @@
 # Jesse Adelman
 
-Customer-facing operations professional targeting customer operations, sales support, implementation support, and operations coordinator roles. My background includes retail leadership, business account support, B2B account outreach, KPI tracking, and practical Excel/SQL/Python project work.
+## About Me
+
+I am a sales and customer operations professional focused on turning customer-facing experience into practical operations, implementation support, and reporting work. My background includes retail leadership, business account support, B2B outreach, KPI tracking, coaching, and self-directed Excel/SQL/Python projects.
+
+Right now, I am building a portfolio around the kind of work I want to do next: organizing customer and account workflows, improving follow-up, validating records, and creating clear reporting tools that help teams act faster.
 
 - **GitHub:** [bidkern](https://github.com/bidkern)
-- **Current focus:** customer operations, sales support, implementation support, operations coordination
-- **Tools I use:** Excel, SQL, Python, Git/GitHub, CSV/JSON, JavaScript/TypeScript project exposure
-- **Strongest work:** keeping customer needs, operating records, follow-up, and reporting organized
+- **Current goal:** move into sales operations, customer operations, implementation support, or operations coordination
+- **Tools I use:** Excel, SQL, Python, Git/GitHub, CSV/JSON, JavaScript project exposure
+- **Strongest work:** sales support, customer communication, account coordination, coaching, and operating records that are easy to review
 
 ## Target Roles
 
+- Sales & Customer Operations Specialist
 - Customer Operations Specialist / Coordinator
 - Sales Operations Coordinator / Associate
 - Implementation Specialist / Implementation Support
